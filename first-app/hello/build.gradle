@@ -17,6 +17,7 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.mybatis:mybatis:3.5.8' // ORM
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
